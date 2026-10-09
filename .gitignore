@@ -1,0 +1,47 @@
+```gitignore
+# Configuration file
+/File To Base64 Signature/App.config
+/File To Base64 SignatureApp.config
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+**/bin/
+**/obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+
+# Visual Studio generated files
+*.cache
+*.pdb
+*.mdb
+*.tmp
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# Generated IDE files
+*.VC.db
+*.VC.VC.opendb
+
+# Local signature files
+/File To Base64 Signature/Officer Signatures/
+
+# OS-generated files
+Thumbs.db
+.DS_Store
+```
+
+
+/Officer Signatures/
